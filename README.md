@@ -11,11 +11,8 @@ __Tools:__
 __Datasets:__
 - [Amazon pet products dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
 
-The purpose of this analysis is well defined (3 pt)
-Results:
+## Results:
+- There are a total of 38,010 reviews, of which 170 or 38.2% are Vine reviews and 37840 or 54.5% unpaid reviews.
+- There were a total of 20,677 5 star reviews, of which 65 were Vine reviews, meaning the 0.3%. The other 20,612 or 99.7% were made by non-Vine users. 
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Summary:
-
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+## Summary:
